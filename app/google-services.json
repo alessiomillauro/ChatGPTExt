@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1022388171519",
+    "project_id": "chatgptext-595c9",
+    "storage_bucket": "chatgptext-595c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022388171519:android:46f7ab3b8793c4678ed2ca",
+        "android_client_info": {
+          "package_name": "com.android.chatgptext"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfVoOEVRDPrFUEWUFSqQ-A6ae2W-nRbVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
